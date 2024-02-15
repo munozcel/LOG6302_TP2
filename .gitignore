@@ -1,0 +1,12 @@
+
+log8602a_lab2/.vscode
+log8602a_lab2/part_1
+log8602a_lab2/part_2
+log8602a_lab2/src/__pycache__
+log8602a_lab2/src/graphviz
+log8602a_lab2/src/README.py
+log8602a_lab2/src/code_analysis
+log8602a_lab2/src/README.py
+.DS_Store
+*.png
+log8602a_lab2/src/ASTtoCFGVisitor.py
